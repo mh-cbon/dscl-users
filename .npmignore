@@ -1,0 +1,6 @@
+/.vagrant/
+/test/
+/node_modules/
+/Vagrantfile
+/vagrant/
+/mocha.sh
